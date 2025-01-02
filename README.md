@@ -25,8 +25,8 @@
 克隆此仓库并安装依赖：
 
 ```bash
-git clone https://github.com/yourusername/my-vue3-app.git
-cd my-vue3-app
+git clone https://github.com/yourusername/vite-project-master.git
+cd vite-project-master
 npm install
 ```
 
